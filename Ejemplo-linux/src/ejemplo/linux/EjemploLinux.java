@@ -4,6 +4,8 @@
  */
 package ejemplo.linux;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author naxo
@@ -15,5 +17,6 @@ public class EjemploLinux {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        JOptionPane.showConfirmDialog(null,"pico pal ceron");
     }
 }
